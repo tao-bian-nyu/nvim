@@ -6,8 +6,9 @@ return {
     preset = "icons", 
     spec = {
       { "<leader>d", group = "󰃤 Debug" },
-      { "<leader>l", group = "󰘦 LSP" },
-      { "<leader>p", group = " Python" },
+      { "<leader>g", group = "󰘦 LSP" },
+      { "<leader>p", group = " Python" },
+      { "<leader>f", group = " Telescope" },
     },
   },
   keys = {
